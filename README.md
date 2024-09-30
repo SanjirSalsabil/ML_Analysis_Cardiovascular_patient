@@ -1,1 +1,8 @@
 # ML_Analysis_Cardiovascular_patient
+
+AI-DRIVEN STATISTICAL MODELING AND MACHINE LEARNING ANALYSIS OF CARDIOVASCULAR PATIENT HOSPITAL ADMISSIONS
+DEPARTMENT OF DATA SCIENCE 
+
+
+<img width="392" alt="pi" src="https://github.com/user-attachments/assets/b27c79e0-e206-41f2-8139-b947be84a81a">
+
